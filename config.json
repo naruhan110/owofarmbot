@@ -14,11 +14,11 @@
                     "time": 1200000
                 },
                 "pray": {
-                    "enable": true,
+                    "enable": false,
                     "time": 303000
                 },
                 "curse": {
-                    "enable": true,
+                    "enable": false,
                     "time": 303500
                 },
                 "upgrade": {
@@ -49,19 +49,19 @@
             "inventorycheck": true,
             "gemcheck": true,
             "lootboxcheck": true,
-            "fabledlootboxcheck": true,
-            "cratecheck": true,
+            "fabledlootboxcheck": false,
+            "cratecheck": false,
             "eventcheck": true
         },
         "animals": {
-            "enable": false,
+            "enable": true,
             "type": "sacrifice",
             "animaltype": {
                 "common": true,
                 "uncommon": true,
                 "rare": true,
-                "epic": false,
-                "mythical": false,
+                "epic": true,
+                "mythical": true,
                 "patreon": false,
                 "cpatreon": false,
                 "legendary": false,
@@ -74,12 +74,12 @@
             }
         },
         "upgradeautohunt": {
-            "enable": false,
+            "enable": true,
             "type": "duration"
         },
         "gamble": {
             "coinflip": {
-                "default_amount": 1000,
+                "default_amount": 100,
                 "max_amount": 150000,
                 "multipler": 3,
                 "enable": false,
@@ -98,7 +98,7 @@
                 "stop_battle_after_daily": false,
                 "stop_hunt_after_quest": false,
                 "stop_battle_after_quest": false,
-                "maximum_gem_rarity": ""
+                "maximum_gem_rarity": "rare"
             },
             "extra": {
                 "stop_hunt_after_daily": false,
@@ -110,12 +110,12 @@
         }
     },
     "main": {
-        "token": "",
-        "userid": "",
-        "channelid": "",
-        "owodmchannelid": "",
-        "gamblechannelid": "",
-        "autoquestchannelid": ""
+        "token": "MzY1OTAzNDYxNDAyODA0MjI1.GRfIhj.8fITKwLvITIJLGSbuDeTVBtySIlZvcrf7cIVJA",
+        "userid": "naruhan",
+        "channelid": "1152918384246267986",
+        "owodmchannelid": "1142449997800030258",
+        "gamblechannelid": "1267666797063311400",
+        "autoquestchannelid": "1152918980357525594"
     },
     "extra": {
         "token": "",
