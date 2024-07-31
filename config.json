@@ -46,7 +46,7 @@
         "autoquest": false,
         "extratoken": false,
         "inventory": {
-            "inventorycheck": true,
+            "inventorycheck": false,
             "gemcheck": true,
             "lootboxcheck": true,
             "fabledlootboxcheck": false,
