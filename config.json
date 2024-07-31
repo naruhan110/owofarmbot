@@ -82,7 +82,7 @@
                 "default_amount": 100,
                 "max_amount": 150000,
                 "multipler": 3,
-                "enable": false,
+                "enable": true,
                 "amount": "1"
             },
             "slots": {
