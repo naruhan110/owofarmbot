@@ -66,7 +66,7 @@ global.questtitle = "";
 //console.clear();
 process.title = `OwO Farm Bot 💗 Bot Version ${version} / BanBypass Version ${banversion} 💗`;
 
-checkversion();
+//checkversion();
 
 if (config.windowssettings.controlcdetectec) {
     process.on("SIGINT", function () {
