@@ -36,7 +36,7 @@
                 }
             }
         },
-        "prefix": "",
+        "prefix": "o",
         "huntandbattle": true,
         "banbypass": true,
         "discordrpc": false,
